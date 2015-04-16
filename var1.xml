@@ -68,10 +68,4 @@
       </block>
     </next>
   </block>
-  <block type="math_number" id="456" x="102" y="168">
-    <field name="NUM">7</field>
-  </block>
-  <block type="math_number" id="457" x="102" y="168">
-    <field name="NUM">7</field>
-  </block>
 </xml>
